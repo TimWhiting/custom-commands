@@ -1,0 +1,18 @@
+// Empty{
+[{
+    "key": "cmd+alt+=",
+    "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "cmd+alt+shift+=",
+    "command": "workbench.acticccon.focusActiveEditorGroup"
+  },
+  {
+    "key": "ctrl+alt+=",
+    "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "ctrl+alt+shift+=",
+    "command": "workbench.action.focusActiveEditorGroup"
+  }
+]
